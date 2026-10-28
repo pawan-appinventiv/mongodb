@@ -1,0 +1,17 @@
+{
+  "name": "mongodb-practice",
+  "version": "1.0.0",
+  "description": "Initial setup for the MongoDB sample_mflix practice assignment",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mongodb": "^6.20.0"
+  }
+}
