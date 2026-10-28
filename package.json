@@ -1,11 +1,12 @@
 {
-  "name": "mongodb-practice",
+  "name": "mflix-movies",
   "version": "1.0.0",
-  "description": "Initial setup for the MongoDB sample_mflix practice assignment",
+  "description": "Movie listing, search, catalog writes, and analytics for sample_mflix",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "report": "node src/report.js"
   },
   "keywords": [],
   "author": "",
